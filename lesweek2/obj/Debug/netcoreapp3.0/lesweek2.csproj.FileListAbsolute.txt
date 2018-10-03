@@ -1,0 +1,11 @@
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/bin/Debug/netcoreapp3.0/lesweek2.deps.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/bin/Debug/netcoreapp3.0/lesweek2.runtimeconfig.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/bin/Debug/netcoreapp3.0/lesweek2.runtimeconfig.dev.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/bin/Debug/netcoreapp3.0/lesweek2.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/bin/Debug/netcoreapp3.0/lesweek2.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/obj/Debug/netcoreapp3.0/lesweek2.csprojAssemblyReference.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/obj/Debug/netcoreapp3.0/lesweek2.csproj.CoreCompileInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/obj/Debug/netcoreapp3.0/lesweek2.AssemblyInfoInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/obj/Debug/netcoreapp3.0/lesweek2.AssemblyInfo.cs
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/obj/Debug/netcoreapp3.0/lesweek2.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek2/obj/Debug/netcoreapp3.0/lesweek2.pdb
