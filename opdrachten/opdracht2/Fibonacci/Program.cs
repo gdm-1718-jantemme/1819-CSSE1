@@ -6,18 +6,18 @@ namespace lesweek4
     {
         static void Main(string[] args)
         {
-            int a, b, c;
-            a = 0;
-            b = 1;
+            int getal1, getal2, uitkomst;
+            getal1 = 0;
+            getal2 = 1;
             for(int i = 0; i <= 20; i++)
             {
                 if(i < 1)
-                    c = 0;
+                    uitkomst = 0;
                 else
-                    c = a + b;
-                a = b;
-                b = c;
-                Console.WriteLine(c);
+                    uitkomst = getal1 + getal2;
+                getal1 = getal2;
+                getal2 = uitkomst;
+                Console.WriteLine(uitkomst);
             }
         }
     }

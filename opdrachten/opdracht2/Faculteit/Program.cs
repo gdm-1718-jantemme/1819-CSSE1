@@ -6,14 +6,22 @@ namespace Faculteit
     {
         static void Main(string[] args)
         {
-            long a = 1;
-            for(int i = 0; i <= 20; i++)
+            string getal;
+            long faculteit = 1;
+
+            Console.WriteLine("Geef het getal waarvan je de faculteit wil berekenen: ");
+            getal = Console.ReadLine();
+
+            for(int i = 0; i <= Convert.ToInt16(getal); i++)
             {
-                a = a * i;
-                if(a == 0)
-                    a = 1;
-                Console.WriteLine(a);
+                faculteit = faculteit * i;
+                if(faculteit == 0)
+                    faculteit = 1;
             }
+            if(faculteit >= 0)
+                Console.WriteLine("De faculteit van " + getal + " is " + faculteit);
+            else
+                Console.WriteLine("De faculteit van het opgegeven getal is te groot.");
         }
     }
 }

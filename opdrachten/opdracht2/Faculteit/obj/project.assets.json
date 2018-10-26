@@ -685,11 +685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek4/Faculteit/Faculteit.csproj",
+      "projectUniqueName": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Faculteit/Faculteit.csproj",
       "projectName": "Faculteit",
-      "projectPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek4/Faculteit/Faculteit.csproj",
+      "projectPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Faculteit/Faculteit.csproj",
       "packagesPath": "/Users/jantemmerman/.nuget/packages/",
-      "outputPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek4/Faculteit/obj/",
+      "outputPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Faculteit/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

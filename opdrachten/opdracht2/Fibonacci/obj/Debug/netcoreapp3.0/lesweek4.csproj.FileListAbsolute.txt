@@ -20,3 +20,14 @@
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek4/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.AssemblyInfo.cs
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek4/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.dll
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/lesweek4/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/bin/Debug/netcoreapp3.0/lesweek4.deps.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/bin/Debug/netcoreapp3.0/lesweek4.runtimeconfig.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/bin/Debug/netcoreapp3.0/lesweek4.runtimeconfig.dev.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/bin/Debug/netcoreapp3.0/lesweek4.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/bin/Debug/netcoreapp3.0/lesweek4.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.csprojAssemblyReference.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.csproj.CoreCompileInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.AssemblyInfoInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.AssemblyInfo.cs
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/Debug/netcoreapp3.0/lesweek4.pdb
