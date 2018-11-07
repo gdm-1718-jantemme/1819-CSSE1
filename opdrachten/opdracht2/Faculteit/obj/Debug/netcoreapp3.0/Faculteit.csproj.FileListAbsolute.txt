@@ -20,3 +20,14 @@
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.AssemblyInfo.cs
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.dll
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/bin/Debug/netcoreapp3.0/Faculteit.deps.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/bin/Debug/netcoreapp3.0/Faculteit.runtimeconfig.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/bin/Debug/netcoreapp3.0/Faculteit.runtimeconfig.dev.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/bin/Debug/netcoreapp3.0/Faculteit.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/bin/Debug/netcoreapp3.0/Faculteit.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.csprojAssemblyReference.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.csproj.CoreCompileInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.AssemblyInfoInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.AssemblyInfo.cs
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Faculteit/obj/Debug/netcoreapp3.0/Faculteit.pdb

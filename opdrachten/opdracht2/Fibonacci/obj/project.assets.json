@@ -685,11 +685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/lesweek4.csproj",
+      "projectUniqueName": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Fibonacci/lesweek4.csproj",
       "projectName": "lesweek4",
-      "projectPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/lesweek4.csproj",
+      "projectPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Fibonacci/lesweek4.csproj",
       "packagesPath": "/Users/jantemmerman/.nuget/packages/",
-      "outputPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Fibonacci/obj/",
+      "outputPath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Fibonacci/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

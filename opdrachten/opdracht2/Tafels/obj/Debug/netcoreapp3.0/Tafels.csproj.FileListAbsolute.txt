@@ -20,3 +20,14 @@
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Tafels/obj/Debug/netcoreapp3.0/Tafels.AssemblyInfo.cs
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Tafels/obj/Debug/netcoreapp3.0/Tafels.dll
 /Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Tafels/obj/Debug/netcoreapp3.0/Tafels.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/bin/Debug/netcoreapp3.0/Tafels.deps.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/bin/Debug/netcoreapp3.0/Tafels.runtimeconfig.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/bin/Debug/netcoreapp3.0/Tafels.runtimeconfig.dev.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/bin/Debug/netcoreapp3.0/Tafels.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/bin/Debug/netcoreapp3.0/Tafels.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/obj/Debug/netcoreapp3.0/Tafels.csprojAssemblyReference.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/obj/Debug/netcoreapp3.0/Tafels.csproj.CoreCompileInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/obj/Debug/netcoreapp3.0/Tafels.AssemblyInfoInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/obj/Debug/netcoreapp3.0/Tafels.AssemblyInfo.cs
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/obj/Debug/netcoreapp3.0/Tafels.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/obj/Debug/netcoreapp3.0/Tafels.pdb
