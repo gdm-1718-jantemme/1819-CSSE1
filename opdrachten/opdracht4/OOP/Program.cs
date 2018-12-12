@@ -9,12 +9,7 @@ namespace OOP
             
         }
 
-        public class MenuItems
-        {
-            
-        }
-
-        public class Product : MenuItems
+        public class Product
         {
             string naam, type;
             string[] ingediënten;
@@ -25,7 +20,7 @@ namespace OOP
                 this.ingediënten = ingediënten;
             }
         }
-        public class Prijs : MenuItems
+        public class Prijs
         {
             string valuta;
             decimal bedrag;
@@ -34,6 +29,11 @@ namespace OOP
                 this.valuta = valuta;
                 this.bedrag = bedrag;
             }
+        }
+
+        public class MenuItems: Product, Prijs
+        {
+            
         }
     }
 }

@@ -1,0 +1,11 @@
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/bin/Debug/netcoreapp3.0/deel3.deps.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/bin/Debug/netcoreapp3.0/deel3.runtimeconfig.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/bin/Debug/netcoreapp3.0/deel3.runtimeconfig.dev.json
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/bin/Debug/netcoreapp3.0/deel3.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/bin/Debug/netcoreapp3.0/deel3.pdb
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/obj/Debug/netcoreapp3.0/deel3.csprojAssemblyReference.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/obj/Debug/netcoreapp3.0/deel3.csproj.CoreCompileInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/obj/Debug/netcoreapp3.0/deel3.AssemblyInfoInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/obj/Debug/netcoreapp3.0/deel3.AssemblyInfo.cs
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/obj/Debug/netcoreapp3.0/deel3.dll
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel3/obj/Debug/netcoreapp3.0/deel3.pdb

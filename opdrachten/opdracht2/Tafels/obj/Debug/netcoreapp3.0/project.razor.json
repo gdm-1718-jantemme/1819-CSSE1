@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht3/Tafels/Tafels.csproj",
+  "ProjectFilePath": "/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht2/Tafels/Tafels.csproj",
   "TargetFramework": "netcoreapp3.0",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
