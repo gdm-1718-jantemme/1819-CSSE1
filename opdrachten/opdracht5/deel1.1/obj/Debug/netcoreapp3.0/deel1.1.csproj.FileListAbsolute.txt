@@ -1,0 +1,4 @@
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel1.1/obj/Debug/netcoreapp3.0/deel1.1.csprojAssemblyReference.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel1.1/obj/Debug/netcoreapp3.0/deel1.1.csproj.CoreCompileInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel1.1/obj/Debug/netcoreapp3.0/deel1.1.AssemblyInfoInputs.cache
+/Users/jantemmerman/Code/gdmgent-1819-CSSE1/opdrachten/opdracht5/deel1.1/obj/Debug/netcoreapp3.0/deel1.1.AssemblyInfo.cs
